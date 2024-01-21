@@ -13,30 +13,18 @@
 - 💬 Ask me about **Web Development, MERN stack**
 
 - 📫 How to reach me **amreshmishra67099@gmail.com **
-
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" display="flex" aling="center">
 <a href="https://twitter.com/https://twitter.com/amreshm86385906" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/amreshm86385906" height="30" width="40" /></a>
-  
 <a href="https://linkedin.com/in/din.com/in/amresh-mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="din.com/in/amresh-mishra" height="30" width="40" /></a>
-
 <a href="https://stackoverflow.com/users/amresh mishra user:14417450" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="amresh mishra user:14417450" height="30" width="40" /></a>
-
 <a href="https://www.behance.net/https://www.behance.net/amreshmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/amreshmishra" height="30" width="40" /></a>
-
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/amresh_03" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/amresh_03" height="30" width="40" /></a>
-
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/amreshmishra6701" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/amreshmishra6701" height="30" width="40" /></a>
-
 <a href="https://codeforces.com/profile/amreshmishra67099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="amreshmishra67099" height="30" width="40" /></a>
-
 <a href="https://www.leetcode.com/https://leetcode.com/_amresh001_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/_amresh001_/" height="30" width="40" /></a>
-
-
 <a href="https://auth.geeksforgeeks.org/user//user/amreshmishra67099/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="/user/amreshmishra67099/" height="30" width="40" /></a>
-
 <a href="https://www.topcoder.com/members//profile/amresh.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="/profile/amresh.1" height="30" width="40" /></a>
-
 <a href="https://discord.gg//channels/@me/1042078163095785502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="/channels/@me/1042078163095785502" height="30" width="40" /></a>
 </p>
 
