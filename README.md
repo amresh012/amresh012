@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amresh Mishra</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+<h3 align="center">A Passionate Full Stack developer from India</h3>
 <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="coder animated gif here" width="300"align="right"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amresh012&label=Profile%20views&color=0e75b6&style=flat" alt="amresh012" /> </p>
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **LLM, Machine Learning**
 
-- 💬 Ask me about **Web Development, MERN stack**
+- 💬 Ask me about **Web Development, MERN stack & LLM**
 
 - 📫 How to reach me **amreshmishra67099@gmail.com **
 <h3 align="left">Connect with me:</h3>
